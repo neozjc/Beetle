@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>非模块化方式使用layui</title>
-    <link rel="stylesheet" href="/static/layui-v2.4.3/css/layui.css">
+    <link rel="stylesheet" href="/plugins/layui-v2.4.3/css/layui.css">
 </head>
 <body>
     <header class="layui-hide-xs">
@@ -312,7 +312,7 @@
 
 
 
-<script src="/static/layui-v2.4.3/layui.all.js"></script>
+<script src="/plugins/layui-v2.4.3/layui.all.js"></script>
 <script>
     ;!function(){
         var carousel = layui.carousel;
